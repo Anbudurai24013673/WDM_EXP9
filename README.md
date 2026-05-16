@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 16-05-2026
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,11 @@ for this purpose.
 
 
 ### Output:
+<img width="1032" height="635" alt="Screenshot 2026-05-16 151423" src="https://github.com/user-attachments/assets/a1eef2bf-634e-4a90-8889-6fed93b48226" />
+<img width="1037" height="615" alt="image" src="https://github.com/user-attachments/assets/0e2e00c7-3682-4213-b770-e00ba267ca97" />
+
+<img width="1037" height="587" alt="image" src="https://github.com/user-attachments/assets/51369a26-b6a4-4f44-839e-9625ae990ad4" />
+
 
 ### Result:
+Import Twitter data into RapidMiner, preprocess using Tokenize, Transform Cases, Remove Stopwords, Remove Special Characters, and Remove Numbers, then apply Stem (Porter) for stemming.
